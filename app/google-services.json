@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "471792056898",
+    "project_id": "fir-notifications-931c1",
+    "storage_bucket": "fir-notifications-931c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471792056898:android:6e1e688a3f53ce438e4bdb",
+        "android_client_info": {
+          "package_name": "com.androiddevs.firebasenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471792056898-8gshse8qth5m1nvbvsbi6clkvu9oue6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr8BnxE7bzTaWvF8KDsaoKVaVOp0YYDP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471792056898-8gshse8qth5m1nvbvsbi6clkvu9oue6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471792056898:android:a83e49c7776d03158e4bdb",
+        "android_client_info": {
+          "package_name": "ru.turbopro.firebasenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471792056898-8gshse8qth5m1nvbvsbi6clkvu9oue6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr8BnxE7bzTaWvF8KDsaoKVaVOp0YYDP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471792056898-8gshse8qth5m1nvbvsbi6clkvu9oue6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
